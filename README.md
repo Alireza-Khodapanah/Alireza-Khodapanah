@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3 align="center">A passionate student of artificial intelligence</h3>
+<h3 align="center">A passionate student of Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alireza-khodapanah&label=Profile%20views&color=0e75b6&style=flat" alt="alireza-khodapanah" /> </p>
 
-- 🌱 I’m currently learning **machine learning, deep learning and image processing**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and Image Processing**
 
 - 📫 How to reach me **alireza.kdph@gmail.com**
 
